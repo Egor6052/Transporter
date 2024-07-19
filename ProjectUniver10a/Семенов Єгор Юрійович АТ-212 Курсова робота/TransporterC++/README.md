@@ -1,1 +1,0 @@
-The program is a system for controlling a belt conveyor. The role of the conveyor is to move objects from point A to point B at a given speed. Management is carried out from the control panel. A PID regulator was developed to maintain the set speed.
